@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/tyleragreen/node-beginner-tutorial#readme",
   "dependencies": {
-    "formidable": "^1.0.17",
+    "formidable": "^1.0.17"
   }
 }

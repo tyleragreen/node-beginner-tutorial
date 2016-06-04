@@ -1,0 +1,23 @@
+{
+  "name": "transit-realtime",
+  "version": "1.0.0",
+  "description": "A beginner Node.js tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tyleragreen/node-beginner-tutorial.git"
+  },
+  "author": "greent@tyleragreen.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tyleragreen/node-beginner-tutorial/issues"
+  },
+  "homepage": "https://github.com/tyleragreen/node-beginner-tutorial#readme",
+  "dependencies": {
+    "formidable": "^1.0.17",
+  }
+}
